@@ -1,4 +1,4 @@
-name: base
+name: tf1_14_cpu
 channels:
   - conda-forge
   - defaults
